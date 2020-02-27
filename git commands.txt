@@ -1,0 +1,37 @@
+-> cd -- change directory/folder
+--> mkdir -- make directory 
+     cd D:
+--> touch -- to create a file in the directory
+     touch file1.txt
+--> echo -- command used to write the content in the file
+     echo "my first line" > file1.txt
+--> nano --  command used to write multiple lines
+     nano
+      a new tab appears ,write multiple lines here
+
+--> clear -- command used to clear the previous commands
+--> ls ---  shows files in the  directory
+--> git init
+--> git config user.name
+--> git config user.email
+--> git status
+--> git add file.txt
+--> git status
+--> git commit -m 'first commit'
+--> git status
+--> git log
+--> mkdir data->githublink
+--> git remote add data
+--> git remote show
+--> git remote -v
+--> git pull data
+--> git push -u data
+--> git push --set-upstream data master
+--> git push -f --set-upstream data master
+
+
+
+--> to delete a file in a directory 
+       rm -r file1.txt
+
+

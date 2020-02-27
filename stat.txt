@@ -1,0 +1,6 @@
+If there are twelve cars crossing a bridge per minute on average, find the probability of having seventeen or more cars crossing the bridge in a particular minute.
+
+ 
+
+ Answer: 10.1%
+
